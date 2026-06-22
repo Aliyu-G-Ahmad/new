@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+# Secrets — never commit these
+.env
+.env.local
+# Logs
+*.log
+# Build output
+build/
+dist/
+# OS junk
+.DS_Store
+Thumbs.db
